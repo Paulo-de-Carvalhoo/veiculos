@@ -26,7 +26,7 @@ A lógica do programa para determinar a categoria de habilitação é a seguinte
 
 ## Contribuições
 
-Se deseja contribuir com o programa, sinta-se à vontade para fazer um fork deste repositório, implementar melhorias e enviar um pull request.
+Se deseja contribuir com o programa, sinta-se à vontade para fazer um fork deste repositório, implementar melhorias e enviar um pull request...
 
 ## Autor
 
